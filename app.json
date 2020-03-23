@@ -1,6 +1,6 @@
 {
-  "name": "Discord MusicBot",
-  "description": "RhinoBot Discord music bot",
+  "name": "TyphoonBot",
+  "description": "Music Bot BRO!",
   "repository": "https://github.com/helionmusic/rhinobot_heroku",
   "buildpacks": [
     {
